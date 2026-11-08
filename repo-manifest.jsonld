@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/qdrant/migration/commit/9256b2277f71345a947104be9ad25173dbb390cd",
       "git:hexsha": "9256b2277f71345a947104be9ad25173dbb390cd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T05:43:10.430296+00:00"
     },
     {
       "@id": "https://repolex.ai/r/qdrant/migration/commit/1a865f6ab1e411a560a888d3dd949ce27801a56a",
