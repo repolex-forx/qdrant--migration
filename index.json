@@ -1,0 +1,11 @@
+{
+  "org": "qdrant",
+  "repo": "migration",
+  "versions": [
+    {
+      "commit": "9256b2277f71345a947104be9ad25173dbb390cd",
+      "tag": "",
+      "parsed_at": "2026-11-08T05:43:10.531337+00:00"
+    }
+  ]
+}
